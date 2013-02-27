@@ -1,11 +1,7 @@
 1
 2
 3
-<<<<<<< HEAD
 4edited123
-=======
-4edited124
->>>>>>> 430dc100ab20bb9176adb55485f197d470f32e53
 5
 6edited
 7
